@@ -5,10 +5,6 @@
 Name: Korganbek Madiyar  
 Group: IT-2501
 
-## Objective
-
-The main goal of this assignment was to learn how to create user-friendly HTML forms, use HTML5 validation and style forms with Bootstrap. During this assignment, I worked with contact forms, Bootstrap form components, validation feedback and a responsive registration form.
-
 # Part 1 - Basic HTML Forms
 
 ## Task 0 - Simple Contact Form
@@ -47,16 +43,3 @@ I also added Submit and Reset buttons, Bootstrap Grid and HTML5 validation. The 
 
 ![Task 4](Screenshots/task4.png)
 
-# Work Process
-
-First, I created a basic contact form using HTML with different input types and labels. Then I added HTML5 validation attributes to check user input.
-
-After that, I recreated the contact form using Bootstrap form classes and Bootstrap Grid. I added placeholders, helper text and Bootstrap validation styles.
-
-Finally, I created a responsive registration form with different types of inputs, radio buttons, checkboxes and a select dropdown. I also added HTML5 validation and Bootstrap styling.
-
-# Final Reflection
-
-This assignment helped me understand how HTML forms and validation work. I learned how to use HTML5 validation attributes such as `required`, `maxlength` and `minlength`.
-
-I also learned how to use Bootstrap form components, Grid and validation classes to create responsive and user-friendly forms. The assignment improved my understanding of form structure, validation and responsive web design.
